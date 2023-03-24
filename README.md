@@ -4,10 +4,3 @@
     <h3 align="center">I'm just a guy who is interested in systems engineering and is working to learn and in the not too distant future work on it.</h3>
     <h3 align="center">You support me?</h3>
 </div>
-<div id="badgen" align="center">
-  <a href="https://github.com/TheLizrof?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/theLizrof?style=for-the-badge" alt="Followers Badge">
-  </a>
-  <a href="https://github.com/TheLizrof?tab=stars" target="_blank">
-    <img src="https://img.shields.io/github/gist/stars/TheLizrof?color=Blue&logo=Github&style=for-the-badge" alt="Stars Badge">
-</div>
