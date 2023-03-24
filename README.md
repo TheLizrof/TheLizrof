@@ -8,6 +8,6 @@
   <h3>⚙languages and tools⚙</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="40"
          heigth="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="27"
-         heigth="27">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="29"
+         heigth="29">
 </div>
