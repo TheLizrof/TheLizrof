@@ -8,5 +8,6 @@
   <h3>⚙languages and tools⚙</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="40"
          heigth="40">
-    <img src="" title="HTML" alt="HTML">
+    <img src="https://www.flaticon.es/icono-gratis/css-3_5968242" title="CSS" alt="CSS" width="40"
+         heigth="40">
 </div>
