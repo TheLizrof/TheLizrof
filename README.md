@@ -10,6 +10,6 @@
          heigth="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="28"
          heigth="28">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="GIT" alt="GIT" width="40"
-         heigth="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="GIT" alt="GIT" width="30"
+         heigth="30">
 </div>
