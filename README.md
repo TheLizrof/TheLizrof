@@ -8,4 +8,6 @@
   <a href="https://www.youtube.com/channel/UCZuP9e-AhAm1BXrz5ojq5_g" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/TheLizrof?color=red&logo=Youtube&logoColor=red&style=for-the-badge" atl="Youtube badge">
   </a>
+  <a href="https://www.instagram.com/thelizrof/?next=%2F" target="_blank">
+    <img src="https://img.shields.io/twitch/status/TheLizrof?color=gree&label=TheLizrof&logo=Twitch&logoColor=grises&style=for-the-badge" atl="Instagram badge">
 </div>
