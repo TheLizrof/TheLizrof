@@ -8,4 +8,6 @@
   <a href="https://github.com/TheLizrof?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/theLizrof?style=for-the-badge" alt="Followers Badge">
   </a>
+  <a href="https://github.com/TheLizrof?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/gist/stars/TheLizrof?color=Blue&logo=Github&style=for-the-badge" alt="Stars Badge">
 </div>
