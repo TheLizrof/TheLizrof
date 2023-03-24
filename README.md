@@ -6,6 +6,7 @@
 </div>
 <div align="center">
   <h3>⚙languages and tools⚙</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="40"
+         heigth="40">
     <img src="" title="HTML" alt="HTML">
 </div>
