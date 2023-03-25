@@ -16,7 +16,7 @@
 <div align="right">
   <h3>📊 My stats :</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLizrof&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLizrof&show_icons=true&theme=dark)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLizrof)](https://github.com/anuraghazra/github-readme-stats)
   
