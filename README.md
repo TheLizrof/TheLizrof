@@ -15,7 +15,9 @@
 </div>
 <div align="right">
   <h4>📊 My stats :</h4>
+  
     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheLizrof)](https://github.com/anuraghazra/github-readme-stats)
   
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelizrof)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
