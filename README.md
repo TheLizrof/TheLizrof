@@ -13,6 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="GIT" alt="GIT" width="34"
          heigth="34">
 </div>
+<div align="right">
 ---
 ### 📊 My stats :
 
