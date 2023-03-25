@@ -14,7 +14,7 @@
          heigth="34">
 </div>
 <div align="right">
----
-### 📊 My stats :
+<h4>📊 My stats :</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thelizrof)](https://github.com/anuraghazra/github-readme-stats)
+</div>
