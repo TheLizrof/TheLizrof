@@ -13,3 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="GIT" alt="GIT" width="34"
          heigth="34">
 </div>
+---
+### 📊 My stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLizrof&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
