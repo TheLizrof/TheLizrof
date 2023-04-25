@@ -13,15 +13,6 @@
  <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </div>
-<div align="left">
-  <h3>🛠 languages and tools :</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML" alt="HTML" width="40"
-         heigth="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" title="CSS" alt="CSS" width="28"
-         heigth="28">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="GIT" alt="GIT" width="34"
-         heigth="34">
-</div>
 <div align="right">
   <h3>📊 My stats :</h3>
     <img align='left' src='https://thumbs.gfycat.com/JauntyLeanBluejay-max-1mb.gif' width='30%'> 
