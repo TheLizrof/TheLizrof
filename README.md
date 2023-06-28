@@ -10,7 +10,7 @@
  <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     <a href="https://mail.google.com/mail/u/1/#inbox">
- <img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/-Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white"/>
+ <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
 </div>
 <div align="right">
