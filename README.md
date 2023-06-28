@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/thelizrof/?next=%2F">
  <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-    <a href="https://mail.google.com/mail/u/1/#inbox">
+    <a href="https://discord.gg/">
  <img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=Discord&logoColor=white"/>
   </a>
 </div>
