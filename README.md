@@ -15,8 +15,8 @@
     <img align="left" src="https://media.giphy.com/media/6cyetttpTEhNqTJ8ZL/giphy.gif" width="30%"> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLizrof&show_icons=true&theme=dark)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLizrof&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TheLizrof)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
