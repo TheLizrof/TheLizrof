@@ -12,7 +12,7 @@
 </div>
 <div align="right">
   <h3>📊 My stats :</h3>
-    <img align='left' src='https://thumbs.gfycat.com/JauntyLeanBluejay-max-1mb.gif' width='30%'> 
+    <img align="left" src="https://media.giphy.com/media/6cyetttpTEhNqTJ8ZL/giphy.gif" width="30%"> 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLizrof&show_icons=true&theme=dark)
   
