@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UrQMGMCuRA62BvVkNP/giphy.gif" width="800" height="400">
+  <img src="https://media.giphy.com/media/tgaKfD7BPqeTBmq3TR/giphy.gif" width="1000" height="80">
     <h1 align="center">Hello!👋</h1>
     <h3 align="center">I'm just a guy who is interested in systems engineering and is working to learn and in the not too distant future work on it.</h3>
     <h3 align="center">You support me?</h3>
