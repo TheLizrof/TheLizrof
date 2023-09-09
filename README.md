@@ -16,6 +16,7 @@
 <br>
 <div align="right">
   <h3>📊 My stats :</h3>
+    <img align="right" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png" width="40px">
     <img align="right" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="40px">
     <img align="right" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px">
 <br>
