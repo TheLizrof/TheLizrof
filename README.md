@@ -16,6 +16,7 @@
     <img align="right" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px">
 <br>
 <br>
+<br>
   
    [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TheLizrof)](https://github.com/anuraghazra/github-readme-stats)
    
