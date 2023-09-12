@@ -1,6 +1,4 @@
 <div id="header" align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thelizrof&theme=whatsapp-dark&hide_border=true&border_radius=0.1&date_format=j%2Fn%5B%2FY%5D&card_width=800&background=EB545400&stroke=36733F&ring=3C5956&fire=B67169&currStreakNum=A2B653&sideNums=5BA666&currStreakLabel=7A444A&sideLabels=36733F&dates=FFFFFF)](https://git.io/streak-stats) 
     <h1 align="center">Hello!👋</h1>
     <h3 align="center">I'm just a guy who is interested in systems engineering and is working to learn and in the not too distant future work on it.</h3>
     <h3 align="center">You support me?</h3>
@@ -10,6 +8,11 @@
   <a href="https://www.instagram.com/thelizrof/?next=%2F">
    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+</div>
+<br>
+<div align="center">
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thelizrof&theme=whatsapp-dark&hide_border=true&border_radius=0.1&date_format=j%2Fn%5B%2FY%5D&card_width=800&background=EB545400&stroke=36733F&ring=3C5956&fire=B67169&currStreakNum=A2B653&sideNums=5BA666&currStreakLabel=7A444A&sideLabels=36733F&dates=FFFFFF)](https://git.io/streak-stats) 
 </div>
 <div>
    <img align="left" src="https://media.giphy.com/media/6cyetttpTEhNqTJ8ZL/giphy.gif" width="30%"> 
